@@ -25,6 +25,7 @@
     <groupId>org.apache.plc4x.examples</groupId>
     <artifactId>plc4j-examples</artifactId>
     <version>0.8.0-SNAPSHOT</version>
+    <relativePath>../../pcl4j/examples/pom.xml</relativePath>
   </parent>
 
   <artifactId>plc4j-hello-influx-data-collection</artifactId>
